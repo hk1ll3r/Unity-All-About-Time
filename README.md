@@ -1,4 +1,5 @@
 # Unity-All-About-Time
+<<<<<<< HEAD
 A simple Unity project to play around with time related features of Unity. This project is intended for learning about Unity for beginner / intermediate developers. Covers Time class, RigidbodyInterpolation, QualitySettings, VSync and more.
 
 On the left side there are controls to change Unity parameters (listed and explained below). On the right side you'll see some stats such as FPS, physics updates per second, real time, game time and screen's refresh rate.
@@ -49,3 +50,8 @@ The parameters:
 * **FrameProcessingTime**
 
   How long the call to Update() should take in real time? use this to simulate a graphics-heavy game in which rendering frames takes considerable amount of time. Uses Thread.Sleep for simulation.
+=======
+A simple Unity project to play around with the time related features of Unity. Covers Time class, plus Application.targetFrameRate, RigidbodyInterpolation, QualitySettings, V Sync Count and more.
+
+
+>>>>>>> add splash logo
