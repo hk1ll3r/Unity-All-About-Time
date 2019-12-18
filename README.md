@@ -1,7 +1,9 @@
 # Unity-All-About-Time
-A simple Unity project to play around with time related features of Unity. This project is intended for learning about Unity for beginner / intermediate developers. Covers Time class, RigidbodyInterpolation, QualitySettings, VSync and more.
+A simple Unity project to play around with time related features of Unity. This project is intended for beginner / intermediate developers to learn about Unity. Covers Time class, RigidbodyInterpolation, QualitySettings, VSync and more.
 
 On the left side there are controls to change Unity parameters (listed and explained below). On the right side you'll see some stats such as FPS, physics updates per second, real time, game time and screen's refresh rate.
+
+You can access the web build of the project here: https://hk1ll3r.github.io/Unity-All-About-Time/
 
 ![screenshot](https://raw.githubusercontent.com/hk1ll3r/Unity-All-About-Time/master/screenshot.png)
 
